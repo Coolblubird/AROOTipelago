@@ -1,5 +1,293 @@
 {
-    "name": "Progressive Workshop Tier",
-    "progression": true,
-    "count": 5
+    "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.items.schema.json",
+    "data": [
+        {
+            "name": "Progressive Workshop Tier",
+            "progression": true,
+            "count": 5
+        },
+
+        {
+            "name": "Progressive Better Furnances",
+            "useful": true,
+            "count": 5
+        },
+        {
+            "name": "Progressive Bigger Benefits",
+            "useful": true,
+            "count": 3
+        },
+        {
+            "name": "Progressive Sharper Claws",
+            "useful": true,
+            "count": 4
+        },
+
+
+        
+        {
+            "name": "Stand and Deliver",
+            "useful": true
+        },
+        {
+            "name": "Tax Collector",
+            "useful": true
+        },
+        {
+            "name": "Armorers",
+            "useful": true
+        },
+        {
+            "name": "Brutal Tactics",
+            "useful": true
+        },
+        {
+            "name": "Sappers",
+            "useful": true
+        },
+        {
+            "name": "Better Burrow Bank",
+            "useful": true
+        },
+        {
+            "name": "Cobbler",
+            "useful": true
+        },
+        {
+            "name": "Command Warren",
+            "useful": true
+        },
+        {
+            "name": "Scouting Party",
+            "useful": true
+        },
+        
+        {
+            "name": "False Orders",
+            "useful": true,
+            "catagory": ["Exiles & Partisans"]
+        },
+        {
+            "name": "Eyrie Emigre",
+            "useful": true,
+            "catagory": ["Exiles & Partisans"]
+        },
+        {
+            "name": "Fox Partisans",
+            "useful": true,
+            "catagory": ["Exiles & Partisans"]
+        },
+        {
+            "name": "Mouse Partisans",
+            "useful": true,
+            "catagory": ["Exiles & Partisans"]
+        },
+        {
+            "name": "Rabbit Partisans",
+            "useful": true,
+            "catagory": ["Exiles & Partisans"]
+        },
+        {
+            "name": "Charm Offensive",
+            "useful": true,
+            "catagory": ["Exiles & Partisans"]
+        },
+        {
+            "name": "League of Adventurous Mice",
+            "useful": true,
+            "catagory": ["Exiles & Partisans"]
+        },
+        {
+            "name": "Master Engravers",
+            "useful": true,
+            "catagory": ["Exiles & Partisans"]
+        },
+        {
+            "name": "Saboteurs",
+            "useful": true,
+            "catagory": ["Exiles & Partisans"]
+        },
+        {
+            "name": "Swap Meet",
+            "useful": true,
+            "catagory": ["Exiles & Partisans"]
+        },
+        {
+            "name": "Tunnels",
+            "useful": true,
+            "catagory": ["Exiles & Partisans"]
+        },
+        {
+            "name": "Coffin Makers",
+            "useful": true,
+            "catagory": ["Exiles & Partisans"]
+        },
+        {
+            "name": "Propaganda Bureau",
+            "useful": true,
+            "catagory": ["Exiles & Partisans"]
+        },
+        {
+            "name": "Soup Kitchens",
+            "useful": true,
+            "catagory": ["Exiles & Partisans"]
+        },
+        {
+            "name": "Boat Builders",
+            "useful": true,
+            "catagory": ["Exiles & Partisans"]
+        },
+        {
+            "name": "Corvid Planners",
+            "useful": true,
+            "catagory": ["Exiles & Partisans"]
+        },
+        {
+            "name": "Informants",
+            "useful": true,
+            "catagory": ["Exiles & Partisans"]
+        },
+
+        {
+            "name": "Riversteads",
+            "useful": true,
+            "catagory": ["Squires & Disciples"]
+        },
+        {
+            "name": "Standard Bearer",
+            "useful": true,
+            "catagory": ["Squires & Disciples"]
+        },
+        {
+            "name": "Supply Train",
+            "useful": true,
+            "catagory": ["Squires & Disciples"]
+        },
+        {
+            "name": "Bold Leadership",
+            "useful": true,
+            "catagory": ["Squires & Disciples"]
+        },
+        {
+            "name": "Hidden Warrens",
+            "useful": true,
+            "catagory": ["Squires & Disciples"]
+        },
+        {
+            "name": "Lookouts",
+            "useful": true,
+            "catagory": ["Squires & Disciples"]
+        },
+        {
+            "name": "Silver-Tongue",
+            "useful": true,
+            "catagory": ["Squires & Disciples"]
+        },
+        {
+            "name": "Fox Squires",
+            "useful": true,
+            "catagory": ["Squires & Disciples"]
+        },
+        {
+            "name": "Mouse Squires",
+            "useful": true,
+            "catagory": ["Squires & Disciples"]
+        },
+        {
+            "name": "Rabbit Squires",
+            "useful": true,
+            "catagory": ["Squires & Disciples"]
+        },
+        {
+            "name": "Tactician",
+            "useful": true,
+            "catagory": ["Squires & Disciples"]
+        },
+        {
+            "name": "The Faithful",
+            "useful": true,
+            "catagory": ["Squires & Disciples"]
+        },
+        {
+            "name": "Friend of the Foxes",
+            "useful": true,
+            "catagory": ["Squires & Disciples"]
+        },
+        {
+            "name": "Friend of the Mice",
+            "useful": true,
+            "catagory": ["Squires & Disciples"]
+        },
+        {
+            "name": "Friend of the Rabbits",
+            "useful": true,
+            "catagory": ["Squires & Disciples"]
+        },
+        {
+            "name": "Shadow Council",
+            "useful": true,
+            "catagory": ["Squires & Disciples"]
+        },
+        {
+            "name": "Sky Courier",
+            "useful": true,
+            "catagory": ["Squires & Disciples"]
+        },
+        {
+            "name": "Apprentice",
+            "useful": true,
+            "catagory": ["Squires & Disciples"]
+        },
+        {
+            "name": "Mice-in-a-bush",
+            "useful": true,
+            "catagory": ["Squires & Disciples"]
+        },
+        {
+            "name": "Raiding Party",
+            "useful": true,
+            "catagory": ["Squires & Disciples"]
+        },
+
+
+        
+        {
+            "name": "Blitz",
+            "useful": true
+        },
+        {
+            "name": "Popularity",
+            "useful": true
+        },
+        {
+            "name": "Hospitals",
+            "useful": true
+        },
+        {
+            "name": "Feline Adventurers",
+            "useful": true
+        },
+        {
+            "name": "Relentless",
+            "useful": true
+        },
+        {
+            "name": "Iron Will",
+            "useful": true
+        },
+        {
+            "name": "Fortified",
+            "useful": true
+        },
+        {
+            "name": "AdSetup",
+            "useful": true,
+            "catagory": ["Marauders"]
+        },
+        {
+            "name": "The Forest Patrol",
+            "useful": true,
+            "catagory": ["Marauders"]
+        }
+    ]
 }

@@ -1,5 +1,9 @@
 {
-    "game": "ROOT",
+    "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.game.schema.json",
+    "game": "ROOT: CATS Campaign",
     "creator": "Coolblubird",
-    "filler_item_name": "+2 VP"
+
+    "filler_item_name": "+2 VP",
+
+    "death_link": false
 }

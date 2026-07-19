@@ -1,0 +1,13 @@
+{
+    "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.items.schema.json",
+    "data": [
+        {
+            "name": "Defeat One Faction (Tier 1 Workshop Unlock)"
+        },
+        {
+            "name": "Defeat All Factions",
+            "region": "Tier 5+",
+            "victory": true
+        }
+    ]
+}
