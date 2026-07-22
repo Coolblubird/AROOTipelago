@@ -1,0 +1,31 @@
+{
+    "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.categories.schema.json",
+
+    "Exiles & Partisans": {
+        "yaml_option": ["Exiles & Partisans Deck"]
+    },
+
+    "Squires & Disciples": {
+        "yaml_option": ["Squires & Disciples Deck"]
+    },
+
+    "Riverfolk":{
+        "yaml_option": ["Riverfolk Expansion"]
+    },
+
+    "Hirelings":{
+        "yaml_option": ["Hirelings Expansion"]
+    },
+
+    "Underworld":{
+        "yaml_option": ["Underworld Expansion"]
+    },
+
+    "Marauders":{
+        "yaml_option": ["Marauders Expansion"]
+    },
+
+    "Homeland":{
+        "yaml_option": ["Homeland Expansion"]
+    }
+}

@@ -2,12 +2,365 @@
     "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.items.schema.json",
     "data": [
         {
-            "name": "Defeat One Faction (Tier 1 Workshop Unlock)"
+            "name": "Defeat One Faction (Tier 1 Workshop Unlock)",
+            "region": "Tier 0"
+        },
+        {
+            "name": "Defeat Two Factions (Tier 2 Workshop Unlock)",
+            "region": "Tier 1"
+        },
+        {
+            "name": "Defeat Three Factions (Tier 3 Workshop Unlock)",
+            "region": "Tier 2"
+        },
+        {
+            "name": "Defeat Four Factions (Tier 4 Workshop Unlock)",
+            "region": "Tier 3"
+        },
+        {
+            "name": "Defeat Five Factions (Tier 5 Workshop Unlock)",
+            "region": "Tier 4"
         },
         {
             "name": "Defeat All Factions",
             "region": "Tier 5+",
             "victory": true
+        },
+
+        {
+            "name": "Better Furnaces l",
+            "region": "Tier 1"
+        },
+
+        {
+            "name": "Better Furnaces ll",
+            "region": "Tier 2"
+        },
+
+        {
+            "name": "Better Furnaces lll",
+            "region": "Tier 3"
+        },
+
+        {
+            "name": "Better Furnaces lV",
+            "region": "Tier 4"
+        },
+
+        {
+            "name": "Better Furnaces V",
+            "region": "Tier 5+"
+        },
+
+        {
+            "name": "Bigger Benefits l",
+            "region": "Tier 1"
+        },
+
+        {
+            "name": "Bigger Benefits ll",
+            "region": "Tier 3"
+        },
+
+        {
+            "name": "Bigger Benefits lll",
+            "region": "Tier 5+"
+        },
+
+        {
+            "name": "Sharper Claws l",
+            "region": "Tier 2"
+        },
+
+        {
+            "name": "Sharper Claws ll",
+            "region": "Tier 3"
+        },
+
+        {
+            "name": "Sharper Claws lll",
+            "region": "Tier 4"
+        },
+
+        {
+            "name": "Sharper Claws lV",
+            "region": "Tier 5+"
+        },
+
+
+        
+        {
+            "name": "Stand and Deliver",
+            "category": ["Base Game"],
+            "region": "Tier 1"
+        },
+        {
+            "name": "Tax Collector",
+            "category": ["Base Game"],
+            "region": "Tier 1"
+        },
+        {
+            "name": "Armorers",
+            "category": ["Base Game"],
+            "region": "Tier 2"
+        },
+        {
+            "name": "Brutal Tactics",
+            "category": ["Base Game"],
+            "region": "Tier 2"
+        },
+        {
+            "name": "Sappers",
+            "category": ["Base Game"],
+            "region": "Tier 2"
+        },
+        {
+            "name": "Better Burrow Bank",
+            "category": ["Base Game"],
+            "region": "Tier 3"
+        },
+        {
+            "name": "Cobbler",
+            "category": ["Base Game"],
+            "region": "Tier 3"
+        },
+        {
+            "name": "Command Warren",
+            "category": ["Base Game"],
+            "region": "Tier 3"
+        },
+        {
+            "name": "Scouting Party",
+            "category": ["Base Game"],
+            "region": "Tier 3"
+        },
+        
+        {
+            "name": "False Orders",
+            "category": ["Exiles & Partisans"],
+            "region": "Tier 1"
+        },
+        {
+            "name": "Eyrie Emigre",
+            "category": ["Exiles & Partisans"],
+            "region": "Tier 2"
+        },
+        {
+            "name": "Fox Partisans",
+            "category": ["Exiles & Partisans"],
+            "region": "Tier 2"
+        },
+        {
+            "name": "Mouse Partisans",
+            "category": ["Exiles & Partisans"],
+            "region": "Tier 2"
+        },
+        {
+            "name": "Rabbit Partisans",
+            "category": ["Exiles & Partisans"],
+            "region": "Tier 2"
+        },
+        {
+            "name": "Charm Offensive",
+            "category": ["Exiles & Partisans"],
+            "region": "Tier 3"
+        },
+        {
+            "name": "League of Adventurous Mice",
+            "category": ["Exiles & Partisans"],
+            "region": "Tier 3"
+        },
+        {
+            "name": "Master Engravers",
+            "category": ["Exiles & Partisans"],
+            "region": "Tier 3"
+        },
+        {
+            "name": "Saboteurs",
+            "category": ["Exiles & Partisans"],
+            "region": "Tier 3"
+        },
+        {
+            "name": "Swap Meet",
+            "category": ["Exiles & Partisans"],
+            "region": "Tier 3"
+        },
+        {
+            "name": "Tunnels",
+            "category": ["Exiles & Partisans"],
+            "region": "Tier 4"
+        },
+        {
+            "name": "Coffin Makers",
+            "category": ["Exiles & Partisans"],
+            "region": "Tier 4"
+        },
+        {
+            "name": "Propaganda Bureau",
+            "category": ["Exiles & Partisans"],
+            "region": "Tier 4"
+        },
+        {
+            "name": "Soup Kitchens",
+            "category": ["Exiles & Partisans"],
+            "region": "Tier 4"
+        },
+        {
+            "name": "Boat Builders",
+            "category": ["Exiles & Partisans"],
+            "region": "Tier 5+"
+        },
+        {
+            "name": "Corvid Planners",
+            "category": ["Exiles & Partisans"],
+            "region": "Tier 5+"
+        },
+        {
+            "name": "Informants",
+            "category": ["Exiles & Partisans"],
+            "region": "Tier 5+"
+        },
+
+        {
+            "name": "Riversteads",
+            "category": ["Squires & Disciples"],
+            "region": "Tier 1"
+        },
+        {
+            "name": "Standard Bearer",
+            "category": ["Squires & Disciples"],
+            "region": "Tier 1"
+        },
+        {
+            "name": "Supply Train",
+            "category": ["Squires & Disciples"],
+            "region": "Tier 1"
+        },
+        {
+            "name": "Bold Leadership",
+            "category": ["Squires & Disciples"],
+            "region": "Tier 2"
+        },
+        {
+            "name": "Hidden Warrens",
+            "category": ["Squires & Disciples"],
+            "region": "Tier 2"
+        },
+        {
+            "name": "Lookouts",
+            "category": ["Squires & Disciples"],
+            "region": "Tier 2"
+        },
+        {
+            "name": "Silver-Tongue",
+            "category": ["Squires & Disciples"],
+            "region": "Tier 2"
+        },
+        {
+            "name": "Fox Squires",
+            "category": ["Squires & Disciples"],
+            "region": "Tier 2"
+        },
+        {
+            "name": "Mouse Squires",
+            "category": ["Squires & Disciples"],
+            "region": "Tier 2"
+        },
+        {
+            "name": "Rabbit Squires",
+            "category": ["Squires & Disciples"],
+            "region": "Tier 2"
+        },
+        {
+            "name": "Tactician",
+            "category": ["Squires & Disciples"],
+            "region": "Tier 2"
+        },
+        {
+            "name": "The Faithful",
+            "category": ["Squires & Disciples"],
+            "region": "Tier 2"
+        },
+        {
+            "name": "Friend of the Foxes",
+            "category": ["Squires & Disciples"],
+            "region": "Tier 3"
+        },
+        {
+            "name": "Friend of the Mice",
+            "category": ["Squires & Disciples"],
+            "region": "Tier 3"
+        },
+        {
+            "name": "Friend of the Rabbits",
+            "category": ["Squires & Disciples"],
+            "region": "Tier 3"
+        },
+        {
+            "name": "Shadow Council",
+            "category": ["Squires & Disciples"],
+            "region": "Tier 3"
+        },
+        {
+            "name": "Sky Courier",
+            "category": ["Squires & Disciples"],
+            "region": "Tier 3"
+        },
+        {
+            "name": "Apprentice",
+            "category": ["Squires & Disciples"],
+            "region": "Tier 4"
+        },
+        {
+            "name": "Mice-in-a-bush",
+            "category": ["Squires & Disciples"],
+            "region": "Tier 4"
+        },
+        {
+            "name": "Raiding Party",
+            "category": ["Squires & Disciples"],
+            "region": "Tier 4"
+        },
+
+
+        
+        {
+            "name": "Blitz",
+            "region": "Tier 1"
+        },
+        {
+            "name": "Popularity",
+            "region": "Tier 1"
+        },
+        {
+            "name": "Hospitals",
+            "region": "Tier 2"
+        },
+        {
+            "name": "Feline Adventurers",
+            "region": "Tier 2"
+        },
+        {
+            "name": "Relentless",
+            "region": "Tier 3"
+        },
+        {
+            "name": "Iron Will",
+            "region": "Tier 4"
+        },
+        {
+            "name": "Fortified",
+            "region": "Tier 5+"
+        },
+        {
+            "name": "AdSetup",
+            "category": ["Marauders"],
+            "region": "Tier 1"
+        },
+        {
+            "name": "The Forest Patrol",
+            "category": ["Hirelings"],
+            "region": "Tier 3"
         }
     ]
 }
