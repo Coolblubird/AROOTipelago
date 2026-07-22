@@ -1,4 +1,4 @@
-This documents serves as a copy of the CATS rules, just in case the google doc given in the README ever breaks (and, if it does, please notify me). Note that some parts of this document might be out of date or styled weird.
+This documents serves as a copy of the CATS rules, just in case the google doc given in the README ever breaks (and, if it does, please notify me). Note that some parts of this document might be out of date or styled weird. If the link is still up, you may read a better-formated version here: https://docs.google.com/document/d/12y8dlnfEjgPmX1IYp7vI9YlP9EN-ISOFOHOyHCbKBm8/edit?usp=sharing
 
 # CATS: 
 ### An Unofficial Campaign of Feline Courage and Bravery
