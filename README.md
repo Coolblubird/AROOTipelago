@@ -7,4 +7,5 @@ However, since this is a manual, if you want a friend to join, they can simply p
 
 ## AI disclosure / Misc.
 -I don't believe any AI was used in this project's case, but if I do use AI, I only use it for advice, and none of the code in this project has been created by an AI.
--Also, if you would like to remix my code or make your own version of ROOT archipelago, then that is totally ok! just know that this is my first AP, so the code might not be the highest quality.
+
+-Also, if you would like to remix my code or make your own version of ROOT archipelago, then that is totally ok! just know that this is my first AP, so the code might not be the highest quality. I am open for code-fixes and suggestions!
